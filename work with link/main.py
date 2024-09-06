@@ -1,7 +1,7 @@
 import telebot
 import webbrowser
 
-bot = telebot.TeleBot('6864089062:AAHfAt8eoqZYhV5q75eXdmOOM0Ua1Hk16-s')
+bot = telebot.TeleBot('')
 
 
 # for links
