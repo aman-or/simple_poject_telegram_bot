@@ -3,7 +3,7 @@ import json
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types.web_app_info import WebAppInfo
 
-bot = Bot('6864089062:AAHfAt8eoqZYhV5q75eXdmOOM0Ua1Hk16-s')
+bot = Bot('')
 dp = Dispatcher(bot)
 
 
